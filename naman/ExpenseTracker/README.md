@@ -34,23 +34,21 @@ The **Expense Tracker** is a simple Java application that allows users to manage
    ```bash
    git clone https://github.com/your-username/expense-tracker.git
    cd expense-tracker
-If using the command line:
+**If using the command line:**
 bash
 Copy code
 javac -d bin src/*.java
 Or use your preferred IDE.
 2. **Run the Application**
 
-If using the command line:
+**If using the command line:**
 bash
 Copy code
 java -cp bin Main
 Or use the "Run" option in your IDE.
 
-🌟 Future Enhancements
+**🌟 Future Enhancements**
 Add user authentication.
 Implement cloud-based data storage.
 Add mobile app integration.
 Enable data visualization using charts.
-🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request. Please make sure to follow the contribution guidelines.
