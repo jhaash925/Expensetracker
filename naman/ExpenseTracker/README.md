@@ -47,7 +47,7 @@ Copy code
 java -cp bin Main
 Or use the "Run" option in your IDE.
 
-**🌟 Future Enhancements**
+## 🌟 Future Enhancements
 Add user authentication.
 Implement cloud-based data storage.
 Add mobile app integration.
