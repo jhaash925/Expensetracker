@@ -1,0 +1,12 @@
+Documentation:
+
+User Manual:
+Installation Guide: Provide instructions on how to set up the project (database, dependencies).
+User Interface Guide: Explain the navigation, features, and functionality of the web application.
+Expense Tracking Guide: Detail how users can record, categorize, and manage their expenses.
+Reporting Guide: Explain how to generate and interpret reports.
+Technical Documentation:
+Architecture Diagram: Show the overall system architecture (Servlets, JSPs, database interactions).
+API Documentation: Document the web services (Servlets) and their methods.
+Database Schema: Provide the database table structure and relationships.
+Code Comments: Use clear and concise comments to explain the code's logic and purpose.
